@@ -13,7 +13,7 @@ void quick_sort(int *array, size_t size)
 	_qsort(array, 0, size - 1, size);
 }
 /**
- * _qsort - auxiliar function for the
+ * _qsort - auxiliary function for the
  * quick_sort function
  * @a: input arrray
  * @low: index for the first element

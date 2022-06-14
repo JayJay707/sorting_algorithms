@@ -19,7 +19,7 @@ void shell_sort(int *array, size_t size)
 		_ssort(array, size, n);
 }
 /**
- * _ssort - auxiliar function for
+ * _ssort - auxiliary function for
  * shell_sort function
  * @a: input arrray
  * @size: size of the array
