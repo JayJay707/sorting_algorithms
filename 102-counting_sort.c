@@ -1,6 +1,6 @@
 #include "sort.h"
 /**
- * counting_sort -Sorts an array of integers
+ * counting_sort -Sorts an arrayof integers
  * in ascending order using the
  * Counting sort algorithm
  * @array: array

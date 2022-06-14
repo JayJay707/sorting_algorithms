@@ -25,7 +25,7 @@ void print_data(char *msg, int *a, int from, int to)
 }
 
 /**
- * merge - Auxiliary function for
+ * merge - Auxiliar function for
  * Merge sort algorithm
  * @a: array
  * @low: low index
